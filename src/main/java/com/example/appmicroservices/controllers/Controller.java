@@ -1,7 +1,6 @@
 package com.example.appmicroservices.controllers;
 
 
-
 @org.springframework.stereotype.Controller
 
 public class Controller {
